@@ -81,9 +81,9 @@ class TestCase:
             self.driver.close()
 
 
-email = 'dmitry.anton@gmail.com'
+email = ' '
 pwd = ' '
-corresp = 'Илья Филинин'
+corresp = ' '
 corresp_email = ' '
 
 if __name__ == "__main__":
